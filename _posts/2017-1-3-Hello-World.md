@@ -7,4 +7,3 @@ title: مدونتك الآن جاهزة!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-أسهل طريقة للبدأ بالتدوين هو تعديل على محتويات هذا الملف. إذهب إلى مجلد `_posts/` وعدل على الملف `2017-1-3-Hello-World.md`. لمزيد من المعلومات زر [صفحة المدونة](https://github.com/a3ammar/jekyll-now) على GitHub
